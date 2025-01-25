@@ -1,0 +1,23 @@
+
+
+
+---
+title: "My R Markdown Report"
+output: html_document
+---
+
+## Introduction
+
+This is a sample report.
+
+```{r}
+# R code chunk
+summary(cars)
+
+
+# Another code chunk
+plot(cars)
+```
+Hello world.
+
+
