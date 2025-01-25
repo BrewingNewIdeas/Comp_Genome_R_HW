@@ -1,1 +1,42 @@
-a
+
+# Computational Genomics with R HW1
+#### Name: Thomas Brew
+
+
+### Section 2.10.1
+
+```{r} 
+
+#Problem 1
+2+3
+
+#Problem 2
+sqrt(36)
+
+#Problem 3
+log10(1000)
+
+#Problem 4
+log2(32)
+
+#Problem 5
+y=2+3+4
+y
+
+#Problem 6
+abs(5-145)
+
+#Problem 7
+x=sqrt(625)/5
+x
+# Problem 8
+
+x=x*5
+x
+
+
+
+```
+
+
+### Section 2.10.1
